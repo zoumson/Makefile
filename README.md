@@ -1,55 +1,4 @@
 ## Sample of Makefile implementation with opencv libraries
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
-
-<!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
--->
-
-
-<!-- PROJECT LOGO -->
-<!-- 
-<br />
-<p align="center">
-
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-<p align="center">
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</p>
--->
 
 
 <!-- TABLE OF CONTENTS -->
@@ -96,7 +45,8 @@ Makefiles are used to help decide which parts of a large program need to be reco
 <!-- GETTING STARTED -->
 ## Getting Started
 
-This is an sample code of how to configure a C/C++ project with a Makefile
+This is an sample code of how to configure a C/C++ project with a Makefile.
+<br>
 To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
@@ -111,11 +61,11 @@ This is an example of how to list things you need to use the software and how to
   sudo apt install build-essential
   ```
  * Install the manual pages about using GNU/Linux for development
-   ```sh
+  ```sh
   sudo apt-get install manpages-dev 
   ```
  * Check the gcc version 
-   ```sh
+ ```sh
   gcc --version
   ```
 
@@ -130,7 +80,6 @@ Clone the repo
 
 <!-- USAGE EXAMPLES -->
 ## Usage
-Command line arguments
 <br>
 
 1. Go to `include` and add the custom header files
