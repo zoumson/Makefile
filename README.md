@@ -1,5 +1,6 @@
 ## Sample of Makefile implementation with opencv libraries
 
+![image](https://user-images.githubusercontent.com/38358621/120076520-7d255680-c0d8-11eb-9541-a1c56c320c5b.png)
 
 <!-- TABLE OF CONTENTS -->
 <details open="open">
