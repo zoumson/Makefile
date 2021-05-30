@@ -1,3 +1,17 @@
+[![LinkedIn][linkedin-shield]][linkedin-url]
+<!--
+[![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![MIT License][license-shield]][license-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
+
+[![Github][github-shield]][github.com/zoumson?tab=repositories]
+[![Stack Overflow][stackoverflow-shield]][stackoverflow.com/users/11175375/adam]
+[![Leetcode][leetcode-shield]][eetcode.com/Hard_Code/]
+-->
 ## Sample of Makefile implementation with opencv libraries
 
 ![image](https://user-images.githubusercontent.com/38358621/120076520-7d255680-c0d8-11eb-9541-a1c56c320c5b.png)
@@ -151,9 +165,10 @@ Project Link: [https://github.com/zoumson/Makefile](https://github.com/zoumson/M
 
 
 
+
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-<!-- 
+
 [contributors-shield]: https://img.shields.io/github/contributors/othneildrew/Best-README-Template.svg?style=for-the-badge
 [contributors-url]: https://github.com/othneildrew/Best-README-Template/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/othneildrew/Best-README-Template.svg?style=for-the-badge
@@ -165,10 +180,7 @@ Project Link: [https://github.com/zoumson/Makefile](https://github.com/zoumson/M
 [license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
 [license-url]: https://github.com/othneildrew/Best-README-Template/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
+[linkedin-url]: linkedin.com/in/adama-zouma-553bba13a
 [product-screenshot]: images/screenshot.png
--->
-
-
 
 
